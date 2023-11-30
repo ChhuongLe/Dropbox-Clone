@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -38,7 +40,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * ![TailwindCSS][TailwindCSS][Tailwind-url]
-* ![Clerk][Clerk][https://clerk.com/]
+* [![Clerk][Clerk]][https://clerk.com/]
 * ![Firebase][Firebase][https://firebase.google.com/]
 * ![Shadcn/ui][Shadcn/ui][https://ui.shadcn.com/]
 * ![Dropzone][Dropzone][https://react-dropzone.js.org/]
@@ -115,3 +117,13 @@ Useful resources that were used in this build
 * [Pretty Bytes](https://www.npmjs.com/package/pretty-bytes)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Clerk]: https://img.shields.io/badge/clerk-purple?style=for-the-badge&logo=clerk&logoColor=white
