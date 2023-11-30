@@ -39,11 +39,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* ![TailwindCSS][TailwindCSS][Tailwind-url]
-* [![Clerk][Clerk]][https://clerk.com/]
-* ![Firebase][Firebase][https://firebase.google.com/]
-* ![Shadcn/ui][Shadcn/ui][https://ui.shadcn.com/]
-* ![Dropzone][Dropzone][https://react-dropzone.js.org/]
+* [![TailwindCSS][TailwindCSS]][Tailwind-url]
+* [![Clerk][Clerk]][Clerk-url]
+* [![Firebase][Firebase]][Firebase-url]
+* [![Shadcn/ui][Shadcn/ui]][https://ui.shadcn.com/]
+* [![Dropzone][Dropzone]][https://react-dropzone.js.org/]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,3 +127,10 @@ Useful resources that were used in this build
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Clerk]: https://img.shields.io/badge/clerk-purple?style=for-the-badge&logo=clerk&logoColor=white
+[Clerk-url]: https://clerk.com/
+[Firebase]: https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=white
+[Firebase-url]: https://firebase.google.com/
+[TailwindCSS]: https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com/
+[Shadcn/ui]: https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shad&logoColor=white
+[Shadcn/ui-url]: https://ui.shadcn.com/
