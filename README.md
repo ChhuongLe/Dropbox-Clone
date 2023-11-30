@@ -35,8 +35,8 @@ This project was created as a way to learn more about how the Dropbox fullstack 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* ![Next][Next.js][Next-url]
-* ![React][React.js][React-url]
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
 * ![TailwindCSS][TailwindCSS][Tailwind-url]
 * ![Clerk][Clerk][https://clerk.com/]
 * ![Firebase][Firebase][https://firebase.google.com/]
