@@ -31,7 +31,7 @@
 
 This project was created as a way to learn more about how the Dropbox fullstack application operates. In this project I wanted to utilize the NextJS framework to create my application, Clerk for authentication, and Firebase Database and Storage to store user information and their files.
 
-![Dashboard](https://i.imgur.com/DjCYQiU.jpg)
+![Dashboard](https://i.imgur.com/TMT7obU.jpg)
 
 When users upload their files, they will be able to remove and rename once I place the functionality in.
 
