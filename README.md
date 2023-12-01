@@ -92,9 +92,11 @@ No examples yet, To Be Edited later
 - [x] Add authentication using either email or Google
 - [x] Add dark and light mode theme
 - [x] Connect Firebase as backend service
-- [ ] Add option to sort files based on date added
-- [ ] Add option to remove files
+- [x] Add option to sort files based on date added
+- [x] Add option to remove files
+  - [ ] Add loading screen to show fill time when client is responding to server to delete file
 - [ ] Add option to rename files
+- [ ] Set it to production launch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
