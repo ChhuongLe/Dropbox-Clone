@@ -95,7 +95,7 @@ No examples yet, To Be Edited later
 - [x] Add option to sort files based on date added
 - [x] Add option to remove files
   - [ ] Add loading screen to show fill time when client is responding to server to delete file
-- [ ] Add option to rename files
+- [x] Add option to rename files
 - [ ] Set it to production launch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
