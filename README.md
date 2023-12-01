@@ -33,7 +33,7 @@ This project was created as a way to learn more about how the Dropbox fullstack 
 
 ![Dashboard](https://i.imgur.com/TMT7obU.jpg)
 
-When users upload their files, they will be able to remove and rename once I place the functionality in.
+Users have the ability to sort files according to date added, rename files, and remove files from their tables.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,6 +99,8 @@ No examples yet, To Be Edited later
 - [x] Add option to rename files
 - [X] Set it to production launch
 - [ ] Add firebase converters
+- [ ] Add option to create folders to house files for better organization
+- [ ] Create shareable links to access files to people not on the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
