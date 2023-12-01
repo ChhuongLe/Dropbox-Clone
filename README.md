@@ -25,9 +25,9 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project ![Live Link](https://dropbox-clone-snowy.vercel.app/)
 
-![Dropbox Clone](https://imgur.com/WWmeyQt.jpg) (https://dropbox-clone-snowy.vercel.app/)
+![Dropbox Clone](https://imgur.com/WWmeyQt.jpg) 
 
 This project was created as a way to learn more about how the Dropbox fullstack application operates. In this project I wanted to utilize the NextJS framework to create my application, Clerk for authentication, and Firebase Database and Storage to store user information and their files.
 
