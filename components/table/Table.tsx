@@ -20,6 +20,7 @@ import { Button } from "../ui/button"
 import { PencilIcon, TrashIcon } from "lucide-react"
 import { useAppStore } from "@/store/store"
 import { DeleteModal } from "../ui/DeleteModal"
+import RenameModal from "../RenameModal"
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[]
@@ -83,6 +84,7 @@ export function DataTable<TData, TValue>({
                 key={row.id}
                 data-state={row.getIsSelected() && "selected"}
               >
+                <RenameModal />
                 <DeleteModal />
                 {row.getVisibleCells().map((cell) => (
                   <TableCell key={cell.id}>
