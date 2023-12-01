@@ -94,7 +94,7 @@ No examples yet, To Be Edited later
 - [x] Connect Firebase as backend service
 - [x] Add option to sort files based on date added
 - [x] Add option to remove files
-  - [ ] Add loading screen to show fill time when client is responding to server to delete file
+  - [x] Add a toast notification to indicate upload, deletion, and renaming
 - [x] Add option to rename files
 - [ ] Set it to production launch
 
