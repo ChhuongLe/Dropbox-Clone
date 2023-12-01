@@ -100,7 +100,7 @@ No examples yet, To Be Edited later
 - [X] Set it to production launch
 - [ ] Add firebase converters
 - [ ] Add option to create folders to house files for better organization
-- [ ] Create shareable links to access files to people not on the app
+- [ ] Create shareable links to access files for people not on the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
