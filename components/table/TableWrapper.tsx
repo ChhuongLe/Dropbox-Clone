@@ -47,7 +47,7 @@ export default function TableWrapper ({ skeletonFiles} : { skeletonFiles: FileTy
           <Skeleton className="h-5 w-full" />
         </Button>
         <div className="border rounded-lg">
-          <div className="border-b h-12">
+          <div className="border-b h-12" />
             {skeletonFiles.map((file)=>(
               <div
                 key={file.id}
@@ -64,7 +64,6 @@ export default function TableWrapper ({ skeletonFiles} : { skeletonFiles: FileTy
                 <Skeleton className="h-12 w-full" />
               </div>
             )}
-          </div>
         </div>
       </div>
     );
