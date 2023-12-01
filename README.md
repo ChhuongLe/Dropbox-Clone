@@ -76,6 +76,7 @@ _Below is an example of how you can instruct your audience on installing and set
    npm install
    ```
 3. Get your Clerk keys at https://dashboard.clerk.com/
+4. Get the NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY and the CLERK_SECRET_KEY
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +97,7 @@ No examples yet, To Be Edited later
 - [x] Add option to remove files
   - [x] Add a toast notification to indicate upload, deletion, and renaming
 - [x] Add option to rename files
-- [ ] Set it to production launch
+- [X] Set it to production launch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
