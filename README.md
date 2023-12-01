@@ -25,7 +25,9 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project ![Live Link](https://dropbox-clone-snowy.vercel.app/)
+## About The Project 
+
+![Live Link](https://dropbox-clone-snowy.vercel.app/)
 
 ![Dropbox Clone](https://imgur.com/WWmeyQt.jpg) 
 
