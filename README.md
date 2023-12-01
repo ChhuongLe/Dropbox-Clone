@@ -95,7 +95,7 @@ No examples yet, To Be Edited later
 - [x] Connect Firebase as backend service
 - [x] Add option to sort files based on date added
 - [x] Add option to remove files
-  - [x] Add a toast notification to indicate upload, deletion, and renaming
+- [x] Add a toast notification to indicate upload, deletion, and renaming
 - [x] Add option to rename files
 - [X] Set it to production launch
 - [ ] Add firebase converters
