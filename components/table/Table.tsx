@@ -17,10 +17,11 @@ import {
 } from "@/components/ui/table"
 import { FileType } from "@/typings"
 import { Button } from "../ui/button"
-import { PencilIcon, TrashIcon } from "lucide-react"
+import { PencilIcon, TrashIcon, Share2Icon } from "lucide-react"
 import { useAppStore } from "@/store/store"
 import { DeleteModal } from "../ui/DeleteModal"
 import RenameModal from "../RenameModal"
+import toast from 'react-hot-toast'
 
 interface DataTableProps<TData, TValue> {
   columns: ColumnDef<TData, TValue>[]
@@ -114,6 +115,23 @@ export function DataTable<TData, TValue>({
                     )}
                   </TableCell>
                 ))}
+
+                <TableCell>
+                    <Button
+                      variant={"outline"}
+                      onClick={() => {
+                        const toastId = toast.loading("Copying...");
+
+                        navigator.clipboard.writeText((row.original as FileType).downloadURL);
+
+                        toast.success("Copied To Clipboard!", {
+                          id: toastId,
+                        })
+                      }}
+                    >
+                      <Share2Icon />
+                    </Button>
+                </TableCell>
 
                 <TableCell key={(row.original as FileType).id}>
                   <Button

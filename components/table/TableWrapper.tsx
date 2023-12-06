@@ -10,7 +10,6 @@ import { useCollection } from "react-firebase-hooks/firestore"
 import { collection, orderBy, query } from "firebase/firestore";
 import { db } from "@/firebase";
 import { Skeleton } from "@/components/ui/skeleton"
-import { fileURLToPath } from "url";
 
 export default function TableWrapper ({ skeletonFiles} : { skeletonFiles: FileType[] }) {
   const { user } = useUser();

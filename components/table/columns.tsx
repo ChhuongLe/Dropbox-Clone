@@ -32,7 +32,7 @@ export const columns: ColumnDef<FileType>[] =  [
   },
   {
     accessorKey: "timestamp",
-    header: "Date Added",
+    header: "Date Modified",
   },
   {
     accessorKey: "size",

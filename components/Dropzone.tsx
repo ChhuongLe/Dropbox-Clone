@@ -11,7 +11,7 @@ import toast from 'react-hot-toast';
 
 export default function Dropzone () {
   const [loading, setLoading] = useState(false);
-  const { isLoaded, isSignedIn, user } = useUser();
+  const { user } = useUser();
 
   const onDrop = (acceptedFiles: File[]) => {
     acceptedFiles.forEach((file) => {
