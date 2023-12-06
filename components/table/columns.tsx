@@ -18,7 +18,7 @@ export const columns: ColumnDef<FileType>[] =  [
         <div className="w-10">
           <FileIcon
             extension={extension}
-            lableColor={COLOR_EXTENSION_MAP[extension]}
+            labelColor={COLOR_EXTENSION_MAP[extension]}
             // @ts-ignore
             {...defaultStyles[extension]}
           />
