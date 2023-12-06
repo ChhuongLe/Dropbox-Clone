@@ -25,9 +25,9 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project 
+## About The Project
 
-![Dropbox Clone](https://imgur.com/WWmeyQt.jpg) 
+![Dropbox Clone](https://imgur.com/WWmeyQt.jpg)
 
 This project was created as a way to learn more about how the Dropbox fullstack application operates. In this project I wanted to utilize the NextJS framework to create my application, Clerk for authentication, and Firebase Database and Storage to store user information and their files.
 
@@ -100,7 +100,7 @@ No examples yet, To Be Edited later
 - [X] Set it to production launch
 - [ ] Add firebase converters
 - [ ] Add option to create folders to house files for better organization
-- [ ] Create shareable links to access files for people not on the app
+- [x] Create shareable links to access files for people not on the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
