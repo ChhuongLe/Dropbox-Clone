@@ -101,6 +101,8 @@ No examples yet, To Be Edited later
 - [ ] Add firebase converters
 - [ ] Add option to create folders to house files for better organization
 - [x] Create shareable links to access files for people not on the app
+- [ ] Implment end-to-end tests
+- [ ] Implment unit tests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
