@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Dropbox Clone](https://imgur.com/WWmeyQt.jpg) (https://dropbox-clone-snowy.vercel.app/)
+![Dropbox Clone](https://imgur.com/WWmeyQt.jpg)
 
 This project was created as a way to learn more about how the Dropbox fullstack application operates. In this project I wanted to utilize the NextJS framework to create my application, Clerk for authentication, and Firebase Database and Storage to store user information and their files.
 
@@ -95,12 +95,14 @@ No examples yet, To Be Edited later
 - [x] Connect Firebase as backend service
 - [x] Add option to sort files based on date added
 - [x] Add option to remove files
-  - [x] Add a toast notification to indicate upload, deletion, and renaming
+- [x] Add a toast notification to indicate upload, deletion, and renaming
 - [x] Add option to rename files
 - [X] Set it to production launch
 - [ ] Add firebase converters
 - [ ] Add option to create folders to house files for better organization
-- [ ] Create shareable links to access files to people not on the app
+- [x] Create shareable links to access files for people not on the app
+- [ ] Implment end-to-end tests
+- [ ] Implment unit tests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
